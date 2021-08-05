@@ -1,5 +1,0 @@
--- DROP DATABASE
-DROP DATABASE IF EXISTS startifacts_db;
-
--- CREATE DATABASE
-CREATE DATABASE startifacts_db;
